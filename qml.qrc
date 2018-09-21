@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/SimpleButtonsColumn.qml</file>
+        <file>qml/lists/ListsShower.qml</file>
+        <file>qml/categories/AskNewIngredientWindow.qml</file>
+        <file>qml/categories/CategoryDrawer.qml</file>
+        <file>qml/categories/CategoryShower.qml</file>
+        <file>Images/drinks.png</file>
+        <file>Images/meat.png</file>
+        <file>Images/vegetable.png</file>
+        <file>qml/categories/IngredientManagementWindow.qml</file>
+        <file>qml/categories/IngredientDrawer.qml</file>
+        <file>qml/categories/IngredientShower.qml</file>
+        <file>Images/add.png</file>
+        <file>qml/DraggableItem.qml</file>
+        <file>Images/bin.png</file>
+        <file>qml/lists/AskNewListWindow.qml</file>
+        <file>qml/lists/DoShoppingWindow.qml</file>
+        <file>Images/beauty.png</file>
+        <file>Images/breads.png</file>
+        <file>Images/fish.png</file>
+        <file>Images/fruits.png</file>
+        <file>Images/saltProduct.png</file>
+        <file>Images/sugarProduct.png</file>
+        <file>Images/freshProduct.png</file>
+    </qresource>
+</RCC>
